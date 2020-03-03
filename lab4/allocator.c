@@ -496,3 +496,10 @@ int worstFit(int size, char *p_name, s_block **head)
    
     return 1;
 }
+
+void firstFit(Proc** head, char* process, int pSize) {
+}
+void bestFit(Proc** head, char* process, int pSize){
+}
+void worstFit(Proc** head, char* process, int pSize) {
+}
